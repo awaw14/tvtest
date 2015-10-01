@@ -345,15 +345,6 @@ http://localhost:65007/?url=2635&ignorefilmonguide=1&filmonmethod=1&mode=1
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC_Action" group-title="Entertainment - בידור" tvg-logo="53311b597278304eb7a4d7a9718db24c.png",MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC_Action" group-title="Entertainment - בידור" tvg-logo="53311b597278304eb7a4d7a9718db24c.png",MBC Action
-rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbcaction?key=083117110032083101112032050055 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction
-
-#EXTINF:-1 tvg-id="MBC3" tvg-name="MBC3" group-title="Entertainment - בידור" tvg-logo="",MBC3
-rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbc3?key=083117110032083101112032050055 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3
-
-#EXTINF:-1 tvg-id="MBC4" tvg-name="MBC4" group-title="Entertainment - בידור" tvg-logo="5648bbf6d549704ad7cd39e9279c9cea.jpg",MBC4
-rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbc4?key=083117110032083101112032050055 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc4
-
 #EXTINF:-1 tvg-id="MBC4" tvg-name="MBC4" group-title="Entertainment - בידור" tvg-logo="5648bbf6d549704ad7cd39e9279c9cea.jpg",MBC4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
@@ -582,17 +573,8 @@ http://localhost:65007/?url=401&mode=1
 #EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC_MAX" group-title="Movies - סרטים" tvg-logo="f4e79113b038e4e4c618dbb3fdb83b6a.png",MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC_MAX" group-title="Movies - סרטים" tvg-logo="f4e79113b038e4e4c618dbb3fdb83b6a.png",MBC MAX
-rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbcmax?key=083117110032083101112032050055 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcmax
-
 #EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" group-title="Movies - סרטים" tvg-logo="74fa5d59ec05eafc8652b9229e9c29a2.png",MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" group-title="Movies - סרטים" tvg-logo="74fa5d59ec05eafc8652b9229e9c29a2.png",MBC2
-rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbc2?key=083117110032083101112032050055 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2
-
-#EXTINF:-1 tvg-id="Fox Movies" tvg-name="Fox_Movies" group-title="Movies - סרטים" tvg-logo="",Fox Movies
-rtmp://web2.iptv-planet.com:1937/live2 playpath=fm?key=083117110032083101112032050055 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm
 
 #EXTINF:-1 tvg-id="Lotus Macau" tvg-name="Lotus_Macau" group-title="Movies - סרטים" tvg-logo="f3d350047d91d3fb8b384b8ba0536a38.jpg",Lotus Macau
 http://122.152.139.15/zerox/LOTUS-42.m3u8
@@ -694,7 +676,7 @@ http://localhost:65007/?url=uk/19&mode=9
 http://localhost:65007/?url=uk/20&mode=9
 
 #EXTINF:-1 tvg-id="Planet POP" tvg-name="Planet_POP" group-title="Music - מוזיקה" tvg-logo="67995d73375eb44ea8b18702b40e9610.jpg",Planet POP
-rtmp://wos.of1.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=ppop?token=65fb1e371858e141afef7978e846abf1&time=5607d05c
+rtmp://wos.of1.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=ppop?token=d4cd097ea930a7b4a6115f48d0cf4c0a&time=560d098f
 
 #EXTINF:-1 tvg-id="Planet POP" tvg-name="Planet_POP" group-title="Music - מוזיקה" tvg-logo="67995d73375eb44ea8b18702b40e9610.jpg",Planet POP
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -703,13 +685,13 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol
 http://localhost:65007/?url=uk/22&mode=9
 
 #EXTINF:-1 tvg-id="AKA" tvg-name="AKA" group-title="Music - מוזיקה" tvg-logo="ead6ef4aecda03c728b66df262e7c62b.jpg",AKA
-rtmp://wos.of1.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=akanew?token=7ea41a70c47fe9047a0f143341d9f4d4&time=5607d05c
+rtmp://wos.of1.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=akanew?token=d7604663b7db8d178cca0771bbab9b2c&time=560d098f
 
 #EXTINF:-1 tvg-id="AKA" tvg-name="AKA" group-title="Music - מוזיקה" tvg-logo="ead6ef4aecda03c728b66df262e7c62b.jpg",AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&output=playlist.m3u8
 
 #EXTINF:-1 tvg-id="CLUBLAND" tvg-name="CLUBLAND" group-title="Music - מוזיקה" tvg-logo="051d611d84d21e5f1389e125a04ecf11.png",CLUBLAND
-rtmp://wos.of2.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=clublandtv?token=a1c1c8325eb4eb7ea26aaee7ded12a1f&time=5607d05c
+rtmp://wos.of2.streamzilla.xlcdn.com/live/_definst_/ playpath=sz=AATW=clublandtv?token=c30d107706abd8acb28dcbabf346a5b9&time=560d0990
 
 #EXTINF:-1 tvg-id="CLUBLAND" tvg-name="CLUBLAND" group-title="Music - מוזיקה" tvg-logo="051d611d84d21e5f1389e125a04ecf11.png",CLUBLAND
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -2714,3 +2696,451 @@ http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nat tv" tvg-name="nat_tv" group-title="thailand - תאילנד" tvg-logo="0df965eea5a32f5c68008b2b4f3b5bb1.jpg",nat tv
 http://iphone-streaming.ustream.tv/ustreamVideo/18937843/streams/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",24 TV 
+http://mn-l.mncdn.com/kanal24/kanal243/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal 24
+http://149.255.152.75/hls-live/livepkgr/kanal24/kanal24/kanal24.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",360 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/skyturk/skyturk/skyturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",5
+http://origin.live.web.tv.streamprovider.net/streams/2a6b8773facea199a116b28119c87b55_live_0_0/index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal 7
+http://149.255.152.69/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",7/24 TV 
+http://live4.radyotvonline.com:80/724tv/724stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 8
+http://149.255.152.68/hls-live/livepkgr/tv8/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",A HABER
+http://rtmp.turkuvazgroup.net/ahaber/ahaber3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",A SPOR 
+http://hls.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",a SPOR 
+http://rtmp.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",A9 TV
+rtmp://live.harunyahya.tv/harunyahyalive/hytest1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",AKILLI TV 
+rtmp://37.75.10.20:1935/akillitv/akilli
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",akillitv.m3u8
+http://149.255.152.69/hls-live/livepkgr/akillitv/akillitv/akillitv.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Anadolu TV 
+rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",ANC TV  600*350
+rtmp://212.64.200.238/livepkgr/livestream
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",ASU TV 
+http://sr1.netmedya.org:1935/asutv/live.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",ATV 
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/atvturk/atvturk/atvturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Atv turk
+http://149.255.152.66/hls-live/livepkgr/atvturk/atvturk/atvturk.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",AY TV 
+http://stream.taksimbilisim.com:1935/aytv/bant1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BENGÜTÜRK TV
+rtmp://yayin8.canliyayin.org/benguturk/benguturk
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BEREKET TV 
+http://37.77.2.236:1935/bereket/bereket.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BEYAZ TV 
+rtmp://beyaztv.mediatriple.net:1935/beyazliveedge/beyaztv1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BLOOMBERG HT 
+http://live-ciner.mncdn.net/bloomberght/bloomberght2/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BRT 1
+http://wms.brtk.net:1935/live/brt1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BRT 2
+http://wms.brtk.net:1935/live/brt2/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BUGÜN TV
+http://yayin1.canlitv.com:1935/live/buguntv/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BURSASPOR TV
+rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",BURSASPOR TV 
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",ÇAPUL TV 
+rtmp://s9.tilda.com.tr:80/live/Stream1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",CIZGI FILM TV h
+mmsh://yayin.networkbil.com/cizgifilmtv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",CNN TURK 
+http://212.224.108.76:80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",D HD 
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",D SHOPPPING 
+http://live.netd.com.tr/S1/HLS_LIVE/dshopping/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DISNEY CHANNEL 
+http://live.netd.com.tr/S1/HLS_LIVE/disney/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DİSNEY CHANNEL 
+http://212.224.109.101/S1/HLS_LIVE/disney/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DISNEY TV 
+http://media.netd.com.tr/S1/HLS_LIVE/disney/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DIYANET TV 
+http://5.44.154.68/dvr/diyanettv.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DOCUMANTARY TR 
+http://188.165.239.200:7088/
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DOST TV 
+rtmp://yayin.dosttv.com/dosttv/dosttv2
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DREAM TURK 
+http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DREAM TÜRK TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DREAM TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DREAMTV 
+http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DRT MEDIA 
+http://tvlive.web.tv.streamprovider.net/akamairtmp/5eaef8def4868dffbe095a6ea2dc54fe_live_0_0/index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",DURU TV 
+rtmp://88.255.182.211/live/durutv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FASHION ONE TV 
+http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FEAR TV HD TÜRKÇE
+http://egitim:sart@185.86.80.106:5010
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FiL TV 
+http://proiptv.dyndns.tv:7085
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FİL TV 
+http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FINEST TV 
+http://62.153.171.60:1466
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FOX 
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Fox turk
+http://149.255.152.74/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",HABERTURK 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/haberturk/haberturk/haberturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",HABERTÜRK 
+http://live-ciner.mncdn.net/haberturk/haberturk2/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",halk-tv 
+rtmp://halk-tv.karwan.tv:1935/liveedge//live
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",HİLAL TV 
+http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",HİLAL TV 
+rtmp://yayin8.canliyayin.org:1935/hilaltv/hilaltv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",HISTORY DOCUMANTARY TR 
+http://proiptv.dyndns.tv:7088
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",IRMAK TV 
+http://streaming.radyocihan.com/dvr/irmaktv.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL 7 AVRUPA 
+http://livetr.gostream.nl/kanal7int/kanal7int/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL 7 HD 
+http://livetr.gostream.nl/kanal7hq/kanal7hq/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal 7 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL 7 
+http://yayin1.canlitv.com:1935/live/kanal7/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL 7 
+http://mobil.gostream.nl/kanal7iphone/_definst_/3kanal7iphone.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL A 
+http://iphone.noc.com.tr/kanala/kanala1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL B 
+rtmp://212.174.233.129/livepkgr/mylivestream
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL B 
+http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal D HD 
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL D HD 
+http://212.224.108.76:80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal D HD 
+http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL D 
+http://media.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal D 
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/canald/canald/canald.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL İSLAM 
+mms://yayin7.canliyayin.org/kanalislam
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL M h
+mmsh://yayin.networkbil.com/kanalm?MSWMExt=.asf
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL SOKAK 
+http://live.stream.cdnline.com:80/mylive/sokak/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL T 
+http://148.251.53.81:1935/live/kanalt1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL TEK 
+http://sr1.netmedya.org:1935/kanaltek/live.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANAL TÜRK 
+http://yayin1.canlitv.com:1935/live/kanalturk/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kanal D
+http://149.255.152.66/hls-live/livepkgr/canald/canald/canald.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANALTURK 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/kanalturk/kanalturk/kanalturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KANALTÜRK 
+http://kanalturk.ercdn.net/er/kanalturk3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KRAL TV 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kral/kral/kral.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Kral
+http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",KUDUS TV 
+rtmp://yayin8.canliyayin.org/kudustv/kudustv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MARATON TV 
+rtmp://yayin.tvdunyasi.tv/live/aydinmaratontv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MEDİNE CANLI YAYIN 
+http://livetr.gostream.nl/medine/medine/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MIHR TV 
+mmsh://rmserver5.mihr.com:8080/wmtencoder/nurtv_tr.wmv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MİNİKA ÇOCUK
+http://yayin1.canlitv.com:1935/live/minikacocuk/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MOVİEMAX STARS HD TÜRKÇE
+http://egitim:sart@185.86.80.106:5009
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MOVİESMART PREMIUM HD
+http://egitim:sart@185.86.80.106:5006
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MOVİESMART YEŞİLÇAM
+http://egitim:sart@185.86.80.106:5011
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MULTI TV 
+rtmp://89.18.178.96/oflaDemo/livestream.flv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NATIONAL GEO WİLD
+http://egitim:sart@185.86.80.106:5002
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Netd Live HD  -1280*720
+http://212.224.108.80/S1/HLS_LIVE/taksim/1500/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Netd Live 
+http://212.224.108.80/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NTV 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/canlintv/canlintv/canlintv.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NTV 
+http://yayin1.canlitv.com:1935/live/ntv/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NTV SPOR 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NTV SPOR 
+http://yayin1.canlitv.com:1935/live/ntvspor/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NUMBER ONE TÜRK TV 
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NUR TV h
+mmsh://rmserver5.mihr.com:8080/wmtencoder/nurtv_tr.wmv?MSWMExt=.asf
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",OGÜN HABER TV 
+rtmp://s01.speednext.com:1935/ogunhaber/ogunhaber
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",OLAY TV  
+rtmp://s01.speednext.com:1935/olaytv/olaytv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",ON 4 
+rtmp://yayin.netradyom.com/live/on4
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET ÇOCUK 
+rtmp://77.223.146.117/live/planetc
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET MUTFAK 
+rtmp://77.223.146.117/live/planetm
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET PEMBE 
+rtmp://77.223.146.117/live/planetp
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET PEMBE 
+http://77.223.146.117:1935/live/planetp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET TÜRK  
+rtmp://77.223.146.117/live/planett
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET TURK 
+http://77.223.146.117:1935/live/planett/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",PLANET TV 
+http://77.223.146.117:1935/live/planett/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SEMERKAND HD 
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SEMERKAND TV 
+rtmp://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW MAX 
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/showmax/showmax/showmax.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
+http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TV 
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/showtv/showtv/showtv.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Showtv
+http://149.255.152.74/hls-live/livepkgr/showtv/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNE TiVi
+http://egitim:sart@185.86.80.106:5008
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 1 
+mms://yayin7.canliyayin.org/sinema1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 2 
+mms://yayin7.canliyayin.org/sinema2
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 3 
+mms://yayin7.canliyayin.org/sinema3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 4 
+mms://yayin7.canliyayin.org/sinema4
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 5 
+mms://yayin7.canliyayin.org/sinema5
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 6 
+mms://yayin7.canliyayin.org/sinema6
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA 
+mms://yayin7.canliyayin.org/sinema
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA TV 2 HD ORJİNAL TÜRKÇE
+http://egitim:sart@185.86.80.106:5005
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA TV 7  anadili
+mms://yayin5.canliyayin.org/anadilitv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA TV HD ORJİNAL TÜRKÇE
+http://egitim:sart@185.86.80.106:5004
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMATURK 
+http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SKY COMEDY HD TÜRKÇE
+http://egitim:sart@185.86.80.106:5007
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Sports TV 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport1/sport1/sport1.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SPORTS TV 
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",STAR TV 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Startv
+http://149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TAKSIM 
+http://212.224.108.80/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TAY TV 
+http://live.netd.com.tr/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Tay TV 
+http://212.224.108.80/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TEMPO TV 
+http://canli.tvnet.tv.tr/hls-live/tempotv/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TGRT Belgesel  
+rtmp://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/tgrt1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TGRT HABER 
+rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TJK TV  
+http://stream.farm.cdnline.com/liveedge/tjk.stream_512k/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TMB TV 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/tmbtv/tmbtv/tmbtv.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TOPRAK TV 
+http://sr1.netmedya.org:1935/topraktv/live.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT 1
+http://81.92.105.135:5555/pl.m3u8?channel=600
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT 1 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt1/trt1/trt1.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT ARAPCA 
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1200.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT ARAPÇA 
+http://sol.trtcdn.com/tv/trtarapca/trtarapca_3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT AVAZ  
+rtmp://re.trtcdn.com/tv/trtavaz_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT AVAZ 
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/trtavaz/trtavaz/trtavaz.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT AVAZ  
+http://sol.trtcdn.com/tv/trtavaz/trtavaz_3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT BELGESEL 
+http://sol.trtcdn.com/tv/trtbelgesel/trtbelgesel_3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT BELGESEL 
+rtmp://sol.trtcdn.com/tv/trtbelgesel/mp4:trtbelgesel_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT COCUK
+http://81.92.105.135:5555/pl.m3u8?channel=603
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT COCUK 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trtcocuk/trtcocuk/trtcocuk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT ÇOCUK 
+http://sol.trtcdn.com/tv/trtcocuk/trtcocuk_3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT ÇOCUK 
+rtmp://sol.trtcdn.com/tv/trtcocuk/mp4:trtcocuk_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT DIYANET  
+rtmp://sol.trtcdn.com/tv/trtdiyanet_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT DIYANET  
+http://sol.trtcdn.com/tv/trtdiyanet/smil:trtdiyanet.smil/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT DİYANET 
+rtmp://sol.trtcdn.com/tv/trtdiyanet/mp4:trtdiyanet_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT HABER
+http://81.92.105.135:5555/pl.m3u8?channel=601
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT HABER 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/haberturk/haberturk/haberturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT HABER 
+rtmp://sol.trtcdn.com/tv/trthaber/mp4:trthaber_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT HD 
+http://si.trtcdn.com/tv/trthd/mp4:trthd_3/chunklist_w1940192687.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT MUZIK
+http://81.92.105.135:5555/pl.m3u8?channel=602
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT MUZIK 
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT MÜZIK 
+http://re.trtcdn.com:1935/tv/trtmuzik_1/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT MÜZİK 
+http://sol.trtcdn.com/tv/trtmuzik/trtmuzik_3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT MÜZİK 
+rtmp://sol.trtcdn.com/tv/trtmuzik/mp4:trtmuzik_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT OKUL 
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/okul/okul/okul.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT OKUL 
+http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT OKUL 
+rtmp://sol.trtcdn.com/tv//trtokul_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT SPOR 
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT TURK 
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/trtturk/trtturk/trtturk.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT TÜRK 
+rtmp://sol.trtcdn.com/tv/trtturk/mp4:trtturk_3
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Trt1
+http://149.255.152.73/hls-live/livepkgr/trt1/trt1/trt1.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Trt3
+http://149.255.152.73/hls-live/livepkgr/trt3/trt3/trt3.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Trtcocuk
+http://149.255.152.73/hls-live/livepkgr/trtcocuk/trtcocuk/trtcocuk.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Trtturk
+http://149.255.152.74/hls-live/livepkgr/trtturk/trtturk/trtturk.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TÜRKİYEM TV 
+http://yayin3.canlitv.com:1935/live/turkiyemtv/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TURKSHOW TV 
+http://62.113.210.6/telebazaar-live/livestream/HasBahCa.m3u8?ext=.mp4
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 1  
+rtmp://stream.taksimbilisim.com:1935/tv1/bant1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 10 
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 10  
+http://5.135.142.60:1935/tv10/xetero/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 2 
+http://212.224.108.76:80/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 2 
+http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 2000 
+http://stream.taksimbilisim.com:1935/tv2000/bant1/HasBahCa.m3u8?ext=.mp4
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 2000 
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 4 
+http://mn-l.mncdn.com/karamel/karamel/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 5 h
+mmsh://yayin3.canliyayin.org/tv5
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 8 
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/tv8/tv8/tv8.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV EM 
+http://mn-l.mncdn.com/tvem_live/tvem3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TVNET 
+http://212.224.108.76:80/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TVNET 
+rtmp://91.93.118.165/tvnet/livestream
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",ÜLKE TV HD 
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",VATAN TV 
+rtmp://188.124.1.135:1935/vatan/vatan
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",VİZYONTÜRK TV 
+http://yayin3.canlitv.com:1935/live/vizyonturktv/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",WİLD LİFE TV BELGESEL TÜRKÇE
+http://harbi:cocuk36@185.86.80.106:5001/wildlifetv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",WOMAN LIFE 
+mms://yayin5.canliyayin.org/womanlife
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",WORLD TRAVEL CHANNEL 
+rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YABAN TV 
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/yabantv/yabantv/yabantv.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Yabantv
+http://149.255.152.68/hls-live/livepkgr/yabantv/yabantv/yabantv.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YASİN TV 
+http://sr1.netmedya.org:1935/yasintv/live.sdp/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YAT TV 
+rtmp://s01.speednext.com:1935/yattv/yattv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YEŞİLÇAM TV 
+http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YOL TV 
+rtmp://178.254.20.205:2100/yol/yolstream.flv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YUMURCAK TV 
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/yumurcak/yumurcak/yumurcak.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",Yumurcak
+http://149.255.152.72/hls-live/livepkgr/yumurcak/yumurcak/yumurcak.m3u8
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",FEAR TV HD TÜRKÇE
+http://egitim:sart@185.86.80.106:5010
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MOVİEMAX STARS HD TÜRKÇE
+http://egitim:sart@185.86.80.106:5009
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",MOVİESMART YEŞİLÇAM
+http://egitim:sart@185.86.80.106:5011
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",NATIONAL GEO WİLD
+http://egitim:sart@185.86.80.106:5002
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNE TiVi
+http://egitim:sart@185.86.80.106:5008
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA 2 Filmler zamanla değişiyor
+http://goo.gl/Rx54Qi
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA 2 Filmler zamanla değişiyor
+http://goo.gl/Rx54Qi
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA 3 Filmler zamanla değişiyor
+http://goo.gl/0vPLnn
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA 3 Filmler zamanla değişiyor
+http://goo.gl/0vPLnn
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA TV 2 HD ORJİNAL TÜRKÇE
+http://egitim:sart@185.86.80.106:5005
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SİNEMA TV HD ORJİNAL TÜRKÇE
+http://egitim:sart@185.86.80.106:5004
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA TV YAYIN-2
+http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5002
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SINEMA TV YAYIN-3
+http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5003
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SKY COMEDY HD TÜRKÇE
+http://egitim:sart@185.86.80.106:5007
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",WİLD LİFE TV BELGESEL TÜRKÇE
+http://harbi:cocuk36@185.86.80.106:5001/wildlifetv
+#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",YABAN TV HD
+http://egitim:sart@185.86.80.106:5003
